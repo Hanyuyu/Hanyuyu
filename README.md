@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 i build some fun apps!
-1. [acs-citation-generator](https://acs-citation-generator) Modern, Fast, and Easy to Use
+1. [an asc citation generator](https://www.acs-citation-generator.com) Modern, Fast, and Easy to Use
 
 ...
